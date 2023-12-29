@@ -15,7 +15,7 @@ Use from robomaster import robot.
 
 Step2:
 
-Choose the x,y,z - axis movement distance(meters).
+Choose the x,y,z - axis movement distance(meters). 
 
 Step3:
 
