@@ -99,8 +99,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![mobile robot](https://github.com/nithish467/mobilerobot-openloopcontrol/assets/150232274/45a296af-7462-471b-a1bd-036219a4af7e)
-
+![Robot ](https://github.com/nithish467/mobilerobot-openloopcontrol/assets/150232274/b266c82e-9887-44dc-a5ea-7d3aa3992f91)
 
 ## MobileRobot Movement Video:
 
